@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+venv/
+output/
+__pycache__/
+*.pyc
+.DS_Store
+kdp_session.json
+storage_state*.json
